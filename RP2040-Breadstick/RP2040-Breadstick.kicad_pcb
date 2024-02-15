@@ -109,7 +109,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "RaspberryBreadstickRev1.0_ProductionFiles/Gerbers/")
+      (outputdirectory "RaspberryBreadstickLiteRev1.0_ProductionFiles/Gerbers/")
     )
   )
 
@@ -5936,15 +5936,15 @@
     (attr smd board_only exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
     (fp_text reference "REF**" (at 0 0 90 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 5a7b5363-f4ba-4c41-94b3-7d1f431f2f05)
+      (tstamp 478f1d76-0f96-4693-84ea-89f14ddb0343)
     )
     (fp_text value "Breadstick B Silk 5mm" (at 0.1016 -6.3246 90 unlocked) (layer "Dwgs.User")
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f9d1d39b-5faf-4a0a-8edc-fa11e1d2d4cf)
+      (tstamp 83c1bff8-80a0-475f-b33f-f00739bd162c)
     )
     (fp_text user "${REFERENCE}" (at 0 -2.5 90 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 0a1ec23f-a709-48c9-90dc-dbd1106324c3)
+      (tstamp 2140908d-60e4-4a96-8223-732baf5e8b36)
     )
     (fp_poly
       (pts
@@ -5954,7 +5954,7 @@
         (xy -2.183448 -0.043)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 4313a2a6-49ca-494d-9e51-6103a864bb12))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 35451310-22f6-447e-9f38-a1a37486a950))
     (fp_poly
       (pts
         (xy -1.92631 0.492778)
@@ -5963,7 +5963,7 @@
         (xy -1.926866 0.493333)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp daca77b2-dcbc-45d7-a2ab-b24f14fb0ad2))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 5f0c8453-7c09-4521-b7eb-c0f0a20297df))
     (fp_poly
       (pts
         (xy 0.414117 -1.40518)
@@ -6036,7 +6036,7 @@
         (xy 0.392647 -1.403484)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 9bf2d33f-1990-4894-abd8-bfd6d4adcf3e))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 6ff4dd92-9c0b-4002-bef3-d69394d88edd))
     (fp_poly
       (pts
         (xy -1.288531 1.683179)
@@ -6110,7 +6110,7 @@
         (xy -1.300654 1.683471)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 1008d7c3-cdae-4fd4-9eef-2a0a9252d204))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 85275c1b-7c31-4c93-81ab-0f7058fbdd42))
     (fp_poly
       (pts
         (xy -0.720371 2.13927)
@@ -7213,9 +7213,9 @@
         (xy -1.969437 2.139717)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp ee731c84-1a7f-4fc6-a0a7-f6eb1ad4c9b9))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp e7b2eeb3-7961-4400-8e84-cf8772c50b09))
     (fp_rect (start -2.5 2.5) (end 2.5 -2.5)
-      (stroke (width 0.05) (type solid)) (fill none) (layer "B.CrtYd") (tstamp a1f7618c-33f2-4a5b-919d-9350fbbd813d))
+      (stroke (width 0.05) (type solid)) (fill none) (layer "B.CrtYd") (tstamp 81333382-d610-492e-b8a3-d3e0bb1d844d))
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (layer "B.Cu")
